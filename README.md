@@ -5,7 +5,7 @@
 
 > **INDEPENDENT RESEARCH — NOT A PLAYTIKA / SUPERTREAT PROJECT.** No proprietary game data, current internal configuration, source code, brand assets, or real-player telemetry was accessed. All numeric model inputs and outputs are illustrative. The *historical* published details described below are not asserted to be the game's current 2026 settings.
 
-### The business question (one sentence)
+### The business question:
 
 **Can we make a high-tier star-based reward crate feel more attainable, without releasing too much reward value into the game economy?**
 
